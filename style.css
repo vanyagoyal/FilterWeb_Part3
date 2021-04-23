@@ -1,0 +1,16 @@
+body {
+    background-image:url("https://image.freepik.com/free-vector/beauty-care-seamless-pattern_93150-741.jpg");
+    background-position: center;
+    background-size:cover;
+    background-position-y:-300px;
+}
+h1 {
+    font-family: 'Dancing Script', cursive;
+    font-size: 80px;
+    color: #329ba8;
+}
+canvas {
+    margin-top:260px;
+    border-radius:20px;
+    box-shadow:0px 0px 30px navy;
+}
